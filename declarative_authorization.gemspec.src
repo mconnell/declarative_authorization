@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "declarative_authorization"
+  s.name = "mconnell-declarative_authorization"
   s.version = "0.3.2.3"
 
   s.required_ruby_version = ">= 1.8.6"
